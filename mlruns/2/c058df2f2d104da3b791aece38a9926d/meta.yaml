@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bruno/Documents/diplodatos/TPAprendizajeProfundo/mlruns/2/c058df2f2d104da3b791aece38a9926d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: c058df2f2d104da3b791aece38a9926d
+run_uuid: c058df2f2d104da3b791aece38a9926d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616296677454
+status: 1
+tags: []
+user_id: bruno
