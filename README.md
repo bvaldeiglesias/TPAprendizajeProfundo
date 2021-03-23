@@ -51,7 +51,7 @@ Al modelo definido ingresa la oracion input como vector embedding de las palabra
 <img src="imgs/RNN_experiment_compare.png"
      alt="RNN experiments comparison"
      style="float: center; margin-right: 10px;"
-     width=40%/>
+     width=80%/>
 
 ### Train Loss
 
@@ -59,6 +59,7 @@ Al modelo definido ingresa la oracion input como vector embedding de las palabra
      alt="RNN train loss plot"
      style="float: center; margin-right: 10px;"
      width=40%/>
+
 
 ### Test Loss
 
