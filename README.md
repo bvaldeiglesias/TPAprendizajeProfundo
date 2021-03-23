@@ -51,14 +51,14 @@ Al modelo definido ingresa la oracion input como vector embedding de las palabra
 <img src="imgs/RNN_experiment_compare.png"
      alt="RNN experiments comparison"
      style="float: center; margin-right: 10px;"
-     width=80%/>
+     width=100%/>
 
 ### Train Loss
 
 <img src="imgs/RNN_train_loss_plot.png"
      alt="RNN train loss plot"
      style="float: center; margin-right: 10px;"
-     width=40%/>
+     width=100%/>
 
 
 ### Test Loss
@@ -66,14 +66,14 @@ Al modelo definido ingresa la oracion input como vector embedding de las palabra
 <img src="imgs/RNN_test_loss_plot.png"
      alt="RNN test loss plot"
      style="float: center; margin-right: 10px;"
-     width=40%/>
+     width=100%/>
 
 ### Balanced Accuracy Plot
 
 <img src="imgs/RNN_bacc_plot.png"
      alt="RNN balanced accuracy plot"
      style="float: center; margin-right: 10px;"
-     width=40%/>
+     width=100%/>
 
 El mejor modelo entre ambas configuraciones es el que cuenta con ```hidden_dim = 100``` con un balanced accuracy igual a 0.806.
 Ambos modelos demoraron en promedio 1.15h en entrenarse en GPU para 10 epochs (Nvidia GTX 1060 - 3Gb VRAM) 
